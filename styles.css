@@ -1,0 +1,22 @@
+body {
+    background: rgb(0, 255, 0);
+    background: linear-gradient(90deg, rgba(0, 255, 0, 1) 10%, rgba(41, 186, 255, 1) 90%);
+}
+
+body {
+    color: #29baff;
+    font-family: merriweather;
+}
+
+
+.zelda {
+    width: 600px;
+}
+
+.title {
+    color: #F190C8;
+}
+
+.uncharted {
+    height: 300px;
+}
